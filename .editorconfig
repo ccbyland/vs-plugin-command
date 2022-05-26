@@ -1,0 +1,12 @@
+# http://editorconfig.orgs
+
+root = true
+
+[*]
+# 编码
+charset = utf-8
+# 缩进风格
+indent_style = space
+# 缩进宽度
+indent_size = 2
+
